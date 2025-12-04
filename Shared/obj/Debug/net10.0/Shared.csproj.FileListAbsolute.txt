@@ -1,0 +1,11 @@
+D:\Jason\AdventOfCode\Shared\bin\Debug\net10.0\Shared.deps.json
+D:\Jason\AdventOfCode\Shared\bin\Debug\net10.0\Shared.dll
+D:\Jason\AdventOfCode\Shared\bin\Debug\net10.0\Shared.pdb
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\Shared.AssemblyInfoInputs.cache
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\Shared.AssemblyInfo.cs
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\Shared.csproj.CoreCompileInputs.cache
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\Shared.dll
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\refint\Shared.dll
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\Shared.pdb
+D:\Jason\AdventOfCode\Shared\obj\Debug\net10.0\ref\Shared.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jason\\AdventOfCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A13F74-78B6-48F7-905B-FA0A68AD148C}|AoC2025\\AoC2025.csproj|d:\\jason\\adventofcode\\aoc2025\\day03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A13F74-78B6-48F7-905B-FA0A68AD148C}|AoC2025\\AoC2025.csproj|solutionrelative:aoc2025\\day03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A13F74-78B6-48F7-905B-FA0A68AD148C}|AoC2025\\AoC2025.csproj|d:\\jason\\adventofcode\\aoc2025\\day02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A13F74-78B6-48F7-905B-FA0A68AD148C}|AoC2025\\AoC2025.csproj|solutionrelative:aoc2025\\day02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFDC22A-010C-4924-A311-EA218716C155}|Shared\\Shared.csproj|d:\\jason\\adventofcode\\shared\\ilineloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFDC22A-010C-4924-A311-EA218716C155}|Shared\\Shared.csproj|solutionrelative:shared\\ilineloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A13F74-78B6-48F7-905B-FA0A68AD148C}|AoC2025\\AoC2025.csproj|d:\\jason\\adventofcode\\aoc2025\\aoc2025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9A13F74-78B6-48F7-905B-FA0A68AD148C}|AoC2025\\AoC2025.csproj|solutionrelative:aoc2025\\aoc2025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AoC2025",
+              "DocumentMoniker": "D:\\Jason\\AdventOfCode\\AoC2025\\AoC2025.csproj",
+              "RelativeDocumentMoniker": "AoC2025\\AoC2025.csproj",
+              "ToolTip": "D:\\Jason\\AdventOfCode\\AoC2025\\AoC2025.csproj",
+              "RelativeToolTip": "AoC2025\\AoC2025.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T04:29:33.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILineLoader.cs",
+              "DocumentMoniker": "D:\\Jason\\AdventOfCode\\Shared\\ILineLoader.cs",
+              "RelativeDocumentMoniker": "Shared\\ILineLoader.cs",
+              "ToolTip": "D:\\Jason\\AdventOfCode\\Shared\\ILineLoader.cs",
+              "RelativeToolTip": "Shared\\ILineLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:03:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day03.cs",
+              "DocumentMoniker": "D:\\Jason\\AdventOfCode\\AoC2025\\Day03.cs",
+              "RelativeDocumentMoniker": "AoC2025\\Day03.cs",
+              "ToolTip": "D:\\Jason\\AdventOfCode\\AoC2025\\Day03.cs",
+              "RelativeToolTip": "AoC2025\\Day03.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T04:29:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day02.cs",
+              "DocumentMoniker": "D:\\Jason\\AdventOfCode\\AoC2025\\Day02.cs",
+              "RelativeDocumentMoniker": "AoC2025\\Day02.cs",
+              "ToolTip": "D:\\Jason\\AdventOfCode\\AoC2025\\Day02.cs",
+              "RelativeToolTip": "AoC2025\\Day02.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:11:58.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

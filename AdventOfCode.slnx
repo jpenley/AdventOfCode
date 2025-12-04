@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AoC2025/AoC2025.csproj" Id="b9a13f74-78b6-48f7-905b-fa0a68ad148c" />
+  <Project Path="Framework/Framework.csproj" />
+  <Project Path="Shared/Shared.csproj" Id="ecfdc22a-010c-4924-a311-ea218716c155" />
+</Solution>
