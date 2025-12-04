@@ -27,40 +27,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JPenley\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jpenl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Jason\\AdventOfCode\\AoC2025\\AoC2025.csproj",
+      "projectUniqueName": "C:\\Users\\jpenl\\RiderProjects\\AdventOfCode\\AoC2025\\AoC2025.csproj",
       "projectName": "AoC2025",
-      "projectPath": "D:\\Jason\\AdventOfCode\\AoC2025\\AoC2025.csproj",
-      "packagesPath": "C:\\Users\\JPenley\\.nuget\\packages\\",
-      "outputPath": "D:\\Jason\\AdventOfCode\\AoC2025\\obj\\",
+      "projectPath": "C:\\Users\\jpenl\\RiderProjects\\AdventOfCode\\AoC2025\\AoC2025.csproj",
+      "packagesPath": "C:\\Users\\jpenl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jpenl\\RiderProjects\\AdventOfCode\\AoC2025\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JPenley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jpenl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://artifact.paylocity.com/artifactory/api/nuget/nuget-debug": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Jason\\AdventOfCode\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\Jason\\AdventOfCode\\Shared\\Shared.csproj"
+            "C:\\Users\\jpenl\\RiderProjects\\AdventOfCode\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\jpenl\\RiderProjects\\AdventOfCode\\Shared\\Shared.csproj"
             }
           }
         }
@@ -96,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\jpenl\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
