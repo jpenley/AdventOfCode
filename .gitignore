@@ -1,0 +1,16 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Rider
+.idea/
+
+# VS Code (but keep .vscode/launch.json in source)
+.vscode/*.log
+
+# macOS
+.DS_Store
